@@ -1,2 +1,1 @@
-hhhhhh
-console.log('xin chao')
+aaa

@@ -1,2 +1,1 @@
-1111
-hello
+'xin chao cac ban'
